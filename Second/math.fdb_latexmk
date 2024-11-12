@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1731435601.3951 "c:/PGU/General workshop/Latex/Second/math.tex" "math.pdf" "math" 1731435602.01413 0
-  "C:/Users/amir1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1730749609 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
+["pdflatex"] 1731436884.94045 "c:/PGU/General workshop/Latex/Second/math.tex" "math.pdf" "math" 1731436885.59595 0
+  "C:/Users/amir1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1731436270 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/amir1/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1730268592 24225047 342a5e9769da98374002d53ffd74247b ""
   "C:/Users/amir1/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/amir1/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -41,9 +41,9 @@
   "C:/Users/amir1/AppData/Local/Programs/MiKTeX/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1696961617 4674 15ab6bdfc97f65b00e59c2867851f715 ""
   "C:/Users/amir1/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.ltd.tex" 1633253722 95525 6fd0552101a6b1f9b7a84b402ec435ba ""
   "C:/Users/amir1/AppData/Local/Programs/MiKTeX/tex/latex/lipsum/lipsum.sty" 1633253722 14690 c2c754218a7108db7823a4839c1bc3cd ""
-  "c:/PGU/General workshop/Latex/Second/math.tex" 1731435600 1040 23ae525607ba90a47240c1264864feb6 ""
-  "math.aux" 1731435601 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "math.tex" 1731435600 1040 23ae525607ba90a47240c1264864feb6 ""
+  "c:/PGU/General workshop/Latex/Second/math.tex" 1731436884 1030 67da8b3e09316aa756c532d3c07846a7 ""
+  "math.aux" 1731436885 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "math.tex" 1731436884 1030 67da8b3e09316aa756c532d3c07846a7 ""
   (generated)
   "math.aux"
   "math.log"
