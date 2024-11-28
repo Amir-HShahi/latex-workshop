@@ -1,0 +1,52 @@
+\documentclass{article}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{subcaption}
+
+\title{Third Task}
+\author{Amir Hasanshahi}
+\date{November 28, 2024}
+
+\begin{document}
+	\maketitle
+    \tableofcontents
+
+    \newpage
+    \section{Tasks}
+	\begin{enumerate}
+		\item \textbf{Formula:}
+			\begin{equation*}
+				J(\theta) = \frac{1}{m}\left[-y^{(i)}\log(h_{\theta}(x^{(i)})) -(1 - y^{(i)}
+				) \log(1-h_{\theta}(x(i)))\right] + \frac{\lambda}{2m}\sum_{j = 1}^{n}(\theta
+				)_{j}^{2}
+			\end{equation*}
+
+		\item \textbf{An Image:}
+			\begin{figure*}[h]
+				\centering
+				\includegraphics[width=0.3\textwidth]{java.png}
+				\caption{Java}
+				\label{java}
+			\end{figure*}
+
+        \item \textbf{Side by side images:} 
+            \begin{figure}[h]
+                \centering
+                \begin{subfigure}{0.45\textwidth}
+                    \centering
+				    \includegraphics[width=\linewidth]{bar-code.png}
+				    \caption{QR Code}
+				    \label{qrcode}
+                \end{subfigure}
+                \hfill
+                \begin{subfigure}{0.45\textwidth}
+                    \centering
+				    \includegraphics[width=\linewidth]{java.png}
+				    \caption{Java}
+				    \label{secondJava}
+                \end{subfigure}
+                \caption{side by side images}
+                \label{subfigures}
+            \end{figure}
+	\end{enumerate}
+\end{document}
